@@ -2,7 +2,7 @@
 
 **Home Assistant custom component** a veresegyházi hulladéknaptár kezeléséhez.
 
-> Ez az integráció segít nyomon követni a verschiedens hulladékszállítási naptárakat Veresegyházon, és automatikus értesítéseket küldhet a közelgő szállítási dátumokról.
+> Ez az integráció segít nyomon követni a hulladékszállítási naptárakat Veresegyházon, és automatikus értesítéseket küldhet a közelgő szállítási dátumokról.
 
 ## 📋 Jellemzők
 
