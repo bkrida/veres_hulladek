@@ -1,0 +1,9 @@
+{
+  "domain": "veres_hulladek",
+  "name": "Veresegyház Hulladéknaptár",
+  "codeowners": ["@bkrida"],
+  "config_flow": false,
+  "documentation": "https://github.com/bkrida/veres_hulladek",
+  "iot_class": "local_polling",
+  "version": "1.0.0"
+}
